@@ -1,4 +1,4 @@
-# Burebista Portable Smoker v0.2.3 — Español / English
+# Burebista Portable Smoker v0.2.4 — Español / English
 
 [Descargar / Download](https://github.com/florynstefanache-source/BurebistaPortableSmoker/releases/latest) · [English](#english)
 
@@ -9,6 +9,8 @@ Vista del modelo 3D del mod; no es una captura dentro del juego. La fogata del j
 ## Español
 
 Traducción del ahumador: objeto y receta, panel, controles, avisos de carga y recogida, desplegar y empaquetar. Los alimentos ahumados conservan sus nombres traducidos. Los textos siguen Español o English en el juego.
+
+La v0.2.4 corrige la recogida con Ctrl + F10. El ahumador solo se retira después de confirmar su entrega en la mochila. Burebista ha probado esta corrección en su partida.
 
 ### Instalar
 
@@ -37,6 +39,8 @@ El complemento opcional de prueba conserva Ctrl + Mayús + F8 para entregar un a
 
 Smoker localization: item and recipe description, smoking panel, controls, loading/collection notices, deployment and packing. Smoked food names are localized too. Text follows Spanish or English selected in the game.
 
+Version 0.2.4 fixes packing with Ctrl + F10. The deployed smoker is removed only after inventory delivery is confirmed. Burebista tested this fix in their save.
+
 ### Installation
 
 Close the game and copy **everything inside the ZIP Mods folder** into TheLongDark/Mods, replacing previous files. Includes the smoker, its .modcomponent and smoking, model, icon and test addons. Keep backups outside Mods; preserve configuration and saves.
@@ -62,9 +66,9 @@ The optional test addon retains Ctrl + Shift + F8 to grant a smoker. It is not n
 
 ## Verificación / Validation
 
-Compilación sin errores y 77 comprobaciones de idioma, receta, código de guardado y recursos superadas. Burebista ha confirmado que esta versión funciona en su partida.
+Compilación sin errores, 68 comprobaciones de idioma superadas y conservación de receta, complementos y código de guardado verificada. Burebista ha confirmado que esta versión funciona en su partida.
 
-Build completed without errors; 77 language, recipe, save-code and asset checks passed. Burebista confirmed this version working in their game.
+Build completed without errors; 68 language checks passed, with recipe, addons and save-code preservation verified. Burebista confirmed this version working in their game.
 
 ## Créditos / Credits
 
